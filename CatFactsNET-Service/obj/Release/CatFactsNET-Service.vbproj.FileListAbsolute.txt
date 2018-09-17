@@ -1,0 +1,17 @@
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\bin\Release\CatFactsNET-Service.exe.config
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\bin\Release\CatFactsNET-Service.exe
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\bin\Release\CatFactsNET-Service.pdb
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\bin\Release\CatFactsNET-Service.xml
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\bin\Release\CatFactsNET.exe
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\bin\Release\Grapevine.dll
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\bin\Release\CatFactsNET.pdb
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\bin\Release\CatFactsNET.xml
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\bin\Release\CatFactsNET.exe.config
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\obj\Release\CatFactsNET-Service.vbprojAssemblyReference.cache
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\obj\Release\CatFactsNET_Service.Resources.resources
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\obj\Release\CatFactsNET-Service.vbproj.GenerateResource.cache
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\obj\Release\CatFactsNET-Service.vbproj.CoreCompileInputs.cache
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\obj\Release\CatFactsNET-Service.vbproj.CopyComplete
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\obj\Release\CatFactsNET-Service.exe
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\obj\Release\CatFactsNET-Service.xml
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\CatFactsNET\CatFactsNET-Service\obj\Release\CatFactsNET-Service.pdb
